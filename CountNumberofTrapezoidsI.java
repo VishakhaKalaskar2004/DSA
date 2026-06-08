@@ -46,5 +46,3 @@ public class CountNumberofTrapezoidsI {
         System.out.println("Example 2 Output: " + result2); // Expected: 1
     }
 }
-
-}
